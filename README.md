@@ -1,4 +1,4 @@
-# Citavi_GroupToLatexExport
+# Citavi Group to Latex Export
 This script creat a [Latex](https://www.latex-project.org/)-table from a [Citavi](https://www.citavi.com/)-Project. It prints all publications from the choosen groups in a matrix table.
 
 ## Screenshots
